@@ -1,5 +1,5 @@
 {
-  "name": "rm-node-module",
+  "name": "rm-node-modules",
   "version": "1.0.0",
   "description": "",
   "main": "rm-node-modules.js",
@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/JudyLipinski/node-rm-node-modules/issues"
   },
