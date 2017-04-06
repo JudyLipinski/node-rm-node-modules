@@ -1,6 +1,6 @@
 var rimraf = require('rimraf');
  
-rimraf('./**/node_mods', (err) => {
+rimraf('./**/node_modules', (err) => {
 	if (err!=null) {
 		console.log(err);
 	}
