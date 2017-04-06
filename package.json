@@ -1,15 +1,20 @@
 {
-  "name": "CreateForNPM",
+  "name": "node-rm-node-modules",
   "version": "1.0.0",
   "description": "",
-  "main": "rmNodeModules.js",
+  "main": "rm-node-modules.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JudyLipinski/node-rm-node-modules.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "rimraf": "^2.6.1"
-  }
+  "bugs": {
+    "url": "https://github.com/JudyLipinski/node-rm-node-modules/issues"
+  },
+  "homepage": "https://github.com/JudyLipinski/node-rm-node-modules#readme"
 }
