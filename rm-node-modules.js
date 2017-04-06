@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 var rimraf = require('rimraf');
  
 rimraf('./**/node_modules', (err) => {
