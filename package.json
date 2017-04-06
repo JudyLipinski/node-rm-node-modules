@@ -1,5 +1,5 @@
 {
-  "name": "node-rm-node-modules",
+  "name": "rm-node-module",
   "version": "1.0.0",
   "description": "",
   "main": "rm-node-modules.js",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JudyLipinski/node-rm-node-modules/issues"
   },
-  "homepage": "https://github.com/JudyLipinski/node-rm-node-modules#readme"
+  "homepage": "https://github.com/JudyLipinski/node-rm-node-modules#readme",
+  "dependencies": {
+    "rimraf": "^2.6.1"
+  }
 }
