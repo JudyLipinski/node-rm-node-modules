@@ -20,7 +20,7 @@
   "dependencies": {
     "rimraf": "^2.6.1"
   },
-   "bin": {
-    "rm-nm": "./bin/rm-node-modules.js"
-    }
+  "bin": {
+    "rm-nm": "./rm-node-modules.js"
+  }
 }
