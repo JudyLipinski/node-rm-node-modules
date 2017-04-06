@@ -19,5 +19,8 @@
   "homepage": "https://github.com/JudyLipinski/node-rm-node-modules#readme",
   "dependencies": {
     "rimraf": "^2.6.1"
-  }
+  },
+   "bin": {
+    "rm-nm": "./bin/rm-node-modules.js"
+    }
 }
